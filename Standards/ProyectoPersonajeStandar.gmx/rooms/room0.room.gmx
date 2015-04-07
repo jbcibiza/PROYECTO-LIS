@@ -323,8 +323,6 @@
     <instance objName="Objsuelotrampa" x="4225" y="525" name="inst_EBF288F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3450" y="0" name="inst_CF8F34B2" locked="0" code="" scaleX="6" scaleY="1.02040815353394" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4375" y="525" name="inst_00346191" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="chopper" x="3275" y="775" name="inst_E1B608F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="koppa" x="3075" y="475" name="inst_7D2080E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3875" y="525" name="inst_68AD729E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3925" y="525" name="inst_47AA648D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3975" y="525" name="inst_6E085470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -337,7 +335,8 @@
     <instance objName="Objsuelotrampa" x="4275" y="525" name="inst_D8AF4F6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4325" y="525" name="inst_F5523E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4425" y="525" name="inst_9F0FBB51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bill_bala" x="4175" y="225" name="inst_62BD97E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="koppa" x="275" y="300" name="inst_8CC9E27D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bill_bala" x="700" y="200" name="inst_F049CCDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

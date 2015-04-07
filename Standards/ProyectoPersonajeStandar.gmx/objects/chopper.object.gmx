@@ -129,9 +129,7 @@ alarm[1] = room_speed * 3;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>with(obj_player) {
-    instance_destroy();
-}
+            <string>room_restart();
 </string>
           </argument>
         </arguments>

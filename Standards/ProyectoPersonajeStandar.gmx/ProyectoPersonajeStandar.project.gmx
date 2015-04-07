@@ -63,7 +63,6 @@
       </sprites>
       <sprites name="Koopa">
         <sprite>sprites\koopa_run</sprite>
-        <sprite>sprites\koppa_kill_shell</sprite>
         <sprite>sprites\koppa_shell_move</sprite>
         <sprite>sprites\koppa_shell_stop</sprite>
       </sprites>
