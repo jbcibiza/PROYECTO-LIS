@@ -68,7 +68,7 @@
     <instance objName="obj_SlopeColicion_Der" x="288" y="320" name="inst_948C7F49" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_SlopeColicion_Der" x="320" y="352" name="inst_20F37888" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_SlopeColicion_Der" x="352" y="384" name="inst_5B4A21BB" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Jugador" x="128" y="256" name="inst_D6CFD2D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="160" y="0" name="inst_174E634F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_SlopeColicion_Der" x="608" y="288" name="inst_A7DE92FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_SlopeColicion_Der" x="640" y="256" name="inst_E031C2F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_SlopeColicion_Der" x="672" y="224" name="inst_1BCEF8BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -127,7 +127,10 @@
     <instance objName="obj_SensorDeMoviles" x="864" y="160" name="inst_4FA9C2CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_SensorDeMoviles" x="640" y="160" name="inst_2F495744" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="224" y="168" name="inst_533A8682" locked="0" code="" scaleX="3.09677410125732" scaleY="0.5" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="160" y="0" name="inst_174E634F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Jugador" x="128" y="192" name="inst_D29BF945" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="seta" x="800" y="128" name="inst_0269C47B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="seta" x="480" y="96" name="inst_2B3A9CBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="seta" x="384" y="288" name="inst_B70F5D75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="background5" x="128" y="288" w="32" h="32" xo="32" yo="32" id="10000502" name="inst_EFA593EC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
