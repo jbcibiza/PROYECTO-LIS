@@ -336,7 +336,7 @@
     <instance objName="Objsuelotrampa" x="4325" y="525" name="inst_F5523E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4425" y="525" name="inst_9F0FBB51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="koppa" x="275" y="300" name="inst_8CC9E27D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bill_bala" x="700" y="200" name="inst_F049CCDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bill_bala" x="700" y="100" name="inst_F049CCDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
