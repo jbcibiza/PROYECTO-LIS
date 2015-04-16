@@ -31,7 +31,7 @@
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="background3" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="background9" x="0" y="0" htiled="-1" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
@@ -61,17 +61,17 @@
     <instance objName="obj_ColicionRect" x="425" y="350" name="inst_8E953BD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="475" y="350" name="inst_286F8C45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="525" y="350" name="inst_5E1141E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_SlopeColicion_Der" x="300" y="300" name="inst_4EF35777" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="350" y="300" name="inst_84B28466" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="400" y="300" name="inst_4D416C81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="450" y="300" name="inst_5D035E37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_SlopeColicion_Der" x="550" y="300" name="inst_7F587B6F" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_SlopeColicion_Der" x="625" y="350" name="inst_BD362FA7" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_SlopeColicion_Der" x="675" y="400" name="inst_E97EBBBD" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_SlopeColicion_Der" x="725" y="450" name="inst_36757787" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Suelo_Sonic_explanada" x="125" y="150" name="inst_F7709170" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5325" y="525" name="inst_6DABABF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_Jugador" x="200" y="225" name="inst_BE6A9E20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5375" y="525" name="inst_0F227ED6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Suelo_Sonic_CambioNivel_1" x="325" y="250" name="inst_D167A113" locked="0" code="" scaleX="1.22000002861023" scaleY="1.22000002861023" colour="4294967295" rotation="0"/>
+    <instance objName="obj_SlopeColicion_Der" x="700" y="275" name="inst_BD362FA7" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_SlopeColicion_Der" x="825" y="500" name="inst_E97EBBBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_SlopeColicion_Der" x="800" y="300" name="inst_36757787" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="575" y="400" name="inst_4041D321" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="625" y="450" name="inst_BC3B63F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="575" y="450" name="inst_8254AC97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="750" y="350" name="inst_BC3B63F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="900" y="250" name="inst_8254AC97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="525" y="400" name="inst_81CA9F9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="525" y="450" name="inst_356A9E77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="475" y="400" name="inst_7160C1D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -110,13 +110,13 @@
     <instance objName="obj_ColicionRect" x="475" y="25" name="inst_8D5A0803" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="525" y="25" name="inst_D126F1A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="575" y="25" name="inst_77855477" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="725" y="500" name="inst_BA0968BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="775" y="500" name="inst_9AD13018" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="825" y="500" name="inst_58A32BAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="675" y="500" name="inst_01D83238" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="625" y="500" name="inst_DDEF619F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="575" y="500" name="inst_451FC877" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="525" y="500" name="inst_4330D310" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="800" y="350" name="inst_BA0968BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="700" y="300" name="inst_9AD13018" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="650" y="325" name="inst_58A32BAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="850" y="350" name="inst_01D83238" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="900" y="350" name="inst_DDEF619F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1000" y="350" name="inst_451FC877" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="850" y="250" name="inst_4330D310" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="475" y="500" name="inst_3CB3753B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="75" y="500" name="inst_2B0A28B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="125" y="500" name="inst_B14CD909" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -125,23 +125,23 @@
     <instance objName="obj_ColicionRect" x="275" y="500" name="inst_B764465F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="325" y="500" name="inst_2A80251D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="375" y="500" name="inst_C951F51C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="425" y="500" name="inst_8CA45AC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="seta" x="600" y="300" name="inst_716F920D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="975" y="250" name="inst_8CA45AC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Suelo_Sonic_Desnivel_2" x="1050" y="325" name="inst_C5C52276" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3375" y="525" name="inst_D64F9356" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="875" y="550" name="inst_7A3FBFB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="925" y="550" name="inst_DAAD3828" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="975" y="550" name="inst_CCBC2360" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1000" y="175" name="inst_91EAA222" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1000" y="75" name="inst_0C980584" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1000" y="125" name="inst_BD311484" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1000" y="225" name="inst_487E1479" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="950" y="350" name="inst_CCBC2360" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="550" y="275" name="inst_A5A8987F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="375" y="350" name="inst_2D206979" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="400" y="275" name="inst_E2977858" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="550" y="325" name="inst_56BAC062" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1000" y="25" name="inst_CB86850C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1000" y="275" name="inst_B3AADD07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1000" y="325" name="inst_1DCED86E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="500" y="275" name="inst_EACD3E5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Suelo_Sonic_Desnivel_1" x="600" y="150" name="inst_36894DA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1225" y="650" name="inst_122FA2C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4175" y="525" name="inst_4F8FDF85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="825" y="550" name="inst_98DFD7F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="725" y="550" name="inst_94DFE291" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5425" y="475" name="inst_15E8A90E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="975" y="600" name="inst_2AE297B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="975" y="650" name="inst_9B8A8F4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="975" y="700" name="inst_AD856504" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -208,7 +208,7 @@
     <instance objName="obj_ColicionRect" x="3375" y="575" name="inst_BECA3CFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3425" y="575" name="inst_01BCD19A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3425" y="525" name="inst_7F987298" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Caja_Sorpresa" x="425" y="200" name="inst_38D82FEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Caja_Sorpresa" x="475" y="125" name="inst_38D82FEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objcaballero1" x="3475" y="475" name="inst_3270B36A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3125" y="525" name="inst_DA8D099B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3175" y="525" name="inst_DEF61D83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -231,50 +231,50 @@
     <instance objName="obj_ColicionRect" x="325" y="550" name="inst_2F2B1976" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="375" y="550" name="inst_A70D46E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="425" y="550" name="inst_80A64749" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="475" y="550" name="inst_8889E26D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="950" y="250" name="inst_8889E26D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="525" y="550" name="inst_7B7E79CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="575" y="550" name="inst_F855C908" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="625" y="550" name="inst_E22FA32E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="675" y="550" name="inst_C4942B05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Suelo_Sonic_DoblePlataforma_1" x="825" y="150" name="inst_27400681" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1225" y="700" name="inst_35F62D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="825" y="450" name="inst_1B3A588D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1050" y="325" name="inst_22347036" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1100" y="325" name="inst_90882E07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1150" y="325" name="inst_10B7DA01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1200" y="325" name="inst_C868D5CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1250" y="325" name="inst_1FF13E8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1300" y="325" name="inst_7628EE3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1350" y="325" name="inst_E66D86CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1400" y="325" name="inst_91B5D4E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1450" y="325" name="inst_0347EFA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1500" y="325" name="inst_C9815BC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1525" y="575" name="inst_E96E21D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1375" y="575" name="inst_58B512C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1425" y="575" name="inst_8C4FA45B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="600" y="275" name="inst_1B3A588D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="450" y="275" name="inst_33047C72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="325" y="350" name="inst_EDDF32FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="400" y="300" name="inst_A0AF4864" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5275" y="525" name="inst_A202DAD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5225" y="525" name="inst_F1D6C44A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5125" y="525" name="inst_C2E5AA08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5175" y="525" name="inst_9FF3C0DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5075" y="525" name="inst_6900ECF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5025" y="525" name="inst_C7DE0DDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="4975" y="525" name="inst_7062F60F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1175" y="550" name="inst_E96E21D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1100" y="350" name="inst_58B512C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1100" y="450" name="inst_8C4FA45B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1575" y="575" name="inst_142D73A4" locked="0" code="" scaleX="0.5" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1475" y="275" name="inst_282000CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Kirby" x="6175" y="525" name="inst_07AB58FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="975" y="750" name="inst_4843AD3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1225" y="750" name="inst_BE5E6802" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1175" y="750" name="inst_7106625E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1125" y="750" name="inst_D913E9D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1075" y="750" name="inst_F83A9750" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1025" y="750" name="inst_09F221D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1350" y="625" name="inst_FEE89E91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1400" y="625" name="inst_98560B0A" locked="0" code="" scaleX="1.01999998092651" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1100" y="400" name="inst_FEE89E91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1050" y="350" name="inst_98560B0A" locked="0" code="" scaleX="1.01999998092651" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1325" y="675" name="inst_D4F821B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1375" y="675" name="inst_DDB3FB1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1325" y="725" name="inst_19BB310C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1375" y="725" name="inst_FDE6D281" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1450" y="625" name="inst_B1E46C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1200" y="525" name="inst_B1E46C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1425" y="675" name="inst_39C298B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1475" y="675" name="inst_E45D5BE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1475" y="725" name="inst_51052720" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1425" y="725" name="inst_BDD148E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1475" y="575" name="inst_80849582" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1100" y="500" name="inst_80849582" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1600" y="575" name="inst_DE1EF207" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1500" y="625" name="inst_B0EAEA88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1225" y="550" name="inst_B0EAEA88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1525" y="675" name="inst_7DC7B2A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_ColicionRect" x="1550" y="625" name="inst_86E56A26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="1250" y="525" name="inst_86E56A26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1525" y="725" name="inst_DB6160CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1575" y="675" name="inst_2FC0C148" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="1600" y="625" name="inst_84C558FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -323,11 +323,13 @@
     <instance objName="Objsuelotrampa" x="4225" y="525" name="inst_EBF288F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3450" y="0" name="inst_CF8F34B2" locked="0" code="" scaleX="6" scaleY="1.02040815353394" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4375" y="525" name="inst_00346191" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="chopper" x="3275" y="775" name="inst_E1B608F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="koppa" x="3075" y="475" name="inst_7D2080E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3875" y="525" name="inst_68AD729E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3925" y="525" name="inst_47AA648D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3975" y="525" name="inst_6E085470" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="4025" y="525" name="inst_26FD9ECD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_Jugador" x="200" y="250" name="inst_88F22500" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bill_bala" x="4525" y="375" name="inst_62BD97E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3875" y="575" name="inst_2D11173E" locked="0" code="" scaleX="4.08163261413574" scaleY="4.08163261413574" colour="4294967295" rotation="0"/>
     <instance objName="obj_ColicionRect" x="3925" y="475" name="inst_147B4904" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4075" y="525" name="inst_54DC0EF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -335,8 +337,36 @@
     <instance objName="Objsuelotrampa" x="4275" y="525" name="inst_D8AF4F6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4325" y="525" name="inst_F5523E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Objsuelotrampa" x="4425" y="525" name="inst_9F0FBB51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="koppa" x="275" y="300" name="inst_8CC9E27D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bill_bala" x="700" y="100" name="inst_F049CCDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bill_bala" x="5325" y="375" name="inst_4AD5F6FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="bill_bala" x="4975" y="425" name="inst_5BB4BF8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5475" y="450" name="inst_7553D926" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5525" y="450" name="inst_6A111760" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5525" y="550" name="inst_9CAEC0CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5525" y="600" name="inst_4F4D00C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5525" y="700" name="inst_A2568155" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5525" y="650" name="inst_76B58D76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5575" y="700" name="inst_0D6AD30E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5625" y="700" name="inst_CA1C11BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5675" y="700" name="inst_B35DD6F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5725" y="700" name="inst_2246B4C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5775" y="700" name="inst_CBC931D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5825" y="700" name="inst_DCD0FF40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5875" y="700" name="inst_517BE4A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5925" y="700" name="inst_E68BEE9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5975" y="700" name="inst_2FB3C20D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6025" y="700" name="inst_5A805DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6075" y="700" name="inst_9887171F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6125" y="700" name="inst_F2FF7668" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6175" y="700" name="inst_5E2228FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="700" name="inst_5F1FB46D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="650" name="inst_9E4298B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="600" name="inst_789AB04F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="550" name="inst_8B1151D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="500" name="inst_44BC96AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="450" name="inst_80CA292C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="6225" y="400" name="inst_83B47C8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_ColicionRect" x="5525" y="500" name="inst_A0E9D3FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_SlopeColicion_Der" x="1200" y="475" name="inst_3BC23C89" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

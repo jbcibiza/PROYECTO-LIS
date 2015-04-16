@@ -35,6 +35,9 @@
       <sprite>sprites\spr_Slope_Derecha</sprite>
       <sprite>sprites\spr_Slope_Izquierda</sprite>
       <sprite>sprites\spr_NoSolid</sprite>
+      <sprite>sprites\spr_Solido_Transparente</sprite>
+      <sprite>sprites\spr_Slope_Derecha_Transparente</sprite>
+      <sprite>sprites\spr_Slope_Izquierda_Transparente</sprite>
     </sprites>
     <sprites name="Trampas">
       <sprite>sprites\spr_Pinchos</sprite>
@@ -63,6 +66,7 @@
       </sprites>
       <sprites name="Koopa">
         <sprite>sprites\koopa_run</sprite>
+        <sprite>sprites\koppa_kill_shell</sprite>
         <sprite>sprites\koppa_shell_move</sprite>
         <sprite>sprites\koppa_shell_stop</sprite>
       </sprites>
@@ -72,8 +76,27 @@
       <sprites name="Bala">
         <sprite>sprites\bill</sprite>
       </sprites>
+      <sprites name="Boss">
+        <sprite>sprites\Kirby</sprite>
+        <sprite>sprites\kirby_absorb</sprite>
+        <sprite>sprites\kirby_absorbing</sprite>
+        <sprite>sprites\kirby_fire_atack</sprite>
+        <sprite>sprites\kirby_proyectil</sprite>
+        <sprite>sprites\kirby_spit</sprite>
+        <sprite>sprites\kirby_proyectil_star</sprite>
+        <sprite>sprites\kirby_proyectil_hammer</sprite>
+        <sprite>sprites\kirby_proyectil_kick</sprite>
+        <sprite>sprites\kirby_summon</sprite>
+      </sprites>
     </sprites>
     <sprite>sprites\powerUp</sprite>
+    <sprites name="Fotos_Suelos">
+      <sprite>sprites\spr_Sonic_explanada_1</sprite>
+      <sprite>sprites\spr_Sonic_cambioNivel_1</sprite>
+      <sprite>sprites\spr_Sonic_Desnivel_1</sprite>
+      <sprite>sprites\spr_Sonic_DoblePlataforma_1</sprite>
+      <sprite>sprites\spr_Sonic_Desnivel_2</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\bk_Brick</background>
@@ -83,6 +106,7 @@
     <background>background\background3</background>
     <background>background\background2</background>
     <background>background\background8</background>
+    <background>background\background9</background>
   </backgrounds>
   <paths name="paths">
     <path>paths\path0</path>
@@ -122,6 +146,20 @@
       <object>objects\bill_bala</object>
       <object>objects\chopper</object>
       <object>objects\koppa</object>
+      <objects name="Boss">
+        <object>objects\Obj_Kirby</object>
+        <object>objects\Obj_kirby_proyectil_fire</object>
+        <object>objects\Obj_kirby_proyectil_star</object>
+        <object>objects\Obj_kirby_pryectil_hammer</object>
+        <object>objects\Obj_kirby_proyectil_kick</object>
+      </objects>
+    </objects>
+    <objects name="Fotos_suelo">
+      <object>objects\Suelo_Sonic_explanada</object>
+      <object>objects\Suelo_Sonic_CambioNivel_1</object>
+      <object>objects\Suelo_Sonic_Desnivel_1</object>
+      <object>objects\Suelo_Sonic_DoblePlataforma_1</object>
+      <object>objects\Suelo_Sonic_Desnivel_2</object>
     </objects>
   </objects>
   <rooms name="rooms">
