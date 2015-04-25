@@ -88,6 +88,12 @@
         <sprite>sprites\kirby_proyectil_kick</sprite>
         <sprite>sprites\kirby_summon</sprite>
       </sprites>
+      <sprites name="Sonic">
+        <sprite>sprites\motobug</sprite>
+        <sprite>sprites\crabmeat</sprite>
+        <sprite>sprites\octus</sprite>
+        <sprite>sprites\balkiry</sprite>
+      </sprites>
     </sprites>
     <sprite>sprites\powerUp</sprite>
     <sprites name="Fotos_Suelos">
